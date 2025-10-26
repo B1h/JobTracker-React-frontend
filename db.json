@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "id": "8001",
+      "company": "TCS",
+      "position": "Devoloper",
+      "location": "ernakulam",
+      "status": "Interview Scheduled"
+    },
+    {
+      "company": "TCS",
+      "position": "Devoloper",
+      "location": "kochi",
+      "status": "applied",
+      "id": "cfce"
+    },
+    {
+      "id": "8539",
+      "company": "TCS",
+      "position": "Devoloper",
+      "location": "ernakulam",
+      "status": "Selected"
+    }
+  ]
+}
